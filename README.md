@@ -30,7 +30,7 @@ Irrelevant fields such as `Serial`, `Fam Members`, `Pin-code`, and `ID` were rem
 
 ## 📊 Power BI Dashboard
 ### 🖼️ Dashboard Visual
-![Dashboard](./8071cdfc-955b-4dc2-9479-402e787625fa.png)
+![Dashboard](https://github.com/Sanchitsingh05/Loan_Prediction_Dashboard-and-Machine_Leanring_model/blob/main/Loan_Prediction_Dashboard.png)
 
 ### ✅ Insights Derived from the Dashboard
 * 📌 **Total Customers:** 5,000
